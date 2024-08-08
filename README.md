@@ -107,4 +107,12 @@ Example images with true labels, predicted labels, and confidence scores were di
 3. **Confusion Matrix Analysis:** Helps in understanding the model’s performance across different disease types.
 4. **Confidence in Predictions:** Most predictions are made with high confidence, beneficial for real-world applications.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For inquiries or contributions, please contact:
+
+- **Praveen K**: praveenk.211ai028@nitk.edu.in
