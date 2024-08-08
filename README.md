@@ -8,7 +8,7 @@ This project focuses on developing a Convolutional Neural Network (CNN) for dete
 
 ### Dataset
 
-- **Source:** Google Drive folder located at `/content/drive/My Drive/Projects/Tomato-disease-detection/Data`
+- **Source:** Google Drive folder located at `/content/drive/My Drive/Projects/Tomato-disease-detection/Data`, also available on Kaggle also.
 - **Image Dimensions:** 256x256 pixels
 - **Batch Size:** 32
 - **Number of Epochs:** 50
