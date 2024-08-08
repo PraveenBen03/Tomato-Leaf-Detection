@@ -107,22 +107,4 @@ Example images with true labels, predicted labels, and confidence scores were di
 3. **Confusion Matrix Analysis:** Helps in understanding the model’s performance across different disease types.
 4. **Confidence in Predictions:** Most predictions are made with high confidence, beneficial for real-world applications.
 
-## Recommendations
 
-1. **Fine-Tuning and Experimentation:**
-   - Explore additional data augmentation techniques.
-   - Investigate more complex CNN architectures or transfer learning approaches.
-
-2. **Error Analysis:**
-   - Analyze misclassified images to address specific model weaknesses.
-   - Refine data preparation or augmentation strategies based on error analysis.
-
-3. **Deployment and Maintenance:**
-   - Ensure proper integration and testing of the model in real-world conditions.
-   - Continuously monitor model performance and update as needed.
-
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
